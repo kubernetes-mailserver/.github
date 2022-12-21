@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/glasskube/operator">
-    <img src="../images/glasskube-logo.png" alt="Glasskube Logo" height="160">
+    <img src="https://raw.githubusercontent.com/glasskube/.github/main/images/glasskube-logo.png" alt="Glasskube Logo" height="160">
   </a>
 
 <h3 align="center">Glasskube</h3>
