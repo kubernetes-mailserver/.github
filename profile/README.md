@@ -9,7 +9,7 @@
   <p align="center">
     Running Open Source Tools on autopilot 
     <br><br>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the source code »</strong></a>
+    <a href="https://github.com/glasskube/operator"><strong>Explore the source code »</strong></a>
     <br>
     <br>
     <a href="https://glasskube.eu/">Website</a>
