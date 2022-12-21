@@ -4,10 +4,10 @@
     <img src="https://raw.githubusercontent.com/glasskube/.github/main/images/glasskube-logo.png" alt="Glasskube Logo" height="160">
   </a>
 
-<h3 align="center">Glasskube</h3>
+<h3 align="center">Kubernetes Operator</h3>
 
   <p align="center">
-    Kubernetes Operator for running Open Source Tools on autopilot 
+    Running Open Source Tools on autopilot 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the source code »</strong></a>
     <br />
@@ -17,6 +17,8 @@
     <a href="https://www.linkedin.com/company/glasskube/">LinkedIn</a>
   </p>
 </div>
+
+<hr>
 
 ### Repository Index
 
