@@ -1,4 +1,4 @@
-<br />
+<br>
 <div align="center">
   <a href="https://github.com/glasskube/operator">
     <img src="https://raw.githubusercontent.com/glasskube/.github/main/images/glasskube-logo.png" alt="Glasskube Logo" height="160">
@@ -8,10 +8,10 @@
 
   <p align="center">
     Running Open Source Tools on autopilot 
-    <br />
+    <br><br>
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the source code »</strong></a>
-    <br />
-    <br />
+    <br>
+    <br>
     <a href="https://glasskube.eu/">Website</a>
     ·
     <a href="https://www.linkedin.com/company/glasskube/">LinkedIn</a>
