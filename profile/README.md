@@ -24,6 +24,6 @@
 
 Here's a brief guide to our most popular repositories and what's inside.
 
-- 🔧 [operator](https://github.com/glasskube/operator): Our main project.
-- 📊 [matomo-docker](https://github.com/glasskube/matomo-docker): Special purposed docker image used by our Operator.
-- 🗈 [.github](https://github.com/glasskube/.github): Our profile page.
+- 🧊 [operator](https://github.com/glasskube/operator): Our main project
+- 🐋 [images](https://github.com/glasskube/images): Special purposed docker images used by the operator
+- 🗣️ [.github](https://github.com/glasskube/.github): Our profile page
