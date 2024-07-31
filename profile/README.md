@@ -27,9 +27,9 @@ The **package is dependency aware** and will get automatic updates.
 
 Here's a brief guide to our most popular repositories and what's inside.
 
-- ✉️ [kubernetes-mailserver](https://github.com/kubernetes-mailserver/kubernetes-mailserver): Kubernetes Mailserver
-- 📦 [packages](https://github.com/kubernetes-mailserver/glasskube-repo): Glasskube Package repo
-- 🗣️ [.github](https://github.com/kubernetes-mailserver/.github): Profile repo
+- ✉️ [`kubernetes-mailserver`](https://github.com/kubernetes-mailserver/kubernetes-mailserver): Kubernetes Mailserver
+- 📦 [`glasskube-repo`](https://github.com/kubernetes-mailserver/glasskube-repo): Glasskube Package repo
+- 🗣️ [`.github`](https://github.com/kubernetes-mailserver/.github): Profile repo
 
 
 ## 📘 License
